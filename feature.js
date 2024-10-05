@@ -4,3 +4,5 @@ const amazingFeature = {
 };
 
 console.log(amazingFeature);
+
+console.log(typeof amazingFeature);
