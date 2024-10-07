@@ -1,1 +1,1 @@
-console.log("smth forgot");
+alert("this text is absolute");
