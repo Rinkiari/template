@@ -1,1 +1,1 @@
-console.log("smth forgot");
+alert("i have added this)");
